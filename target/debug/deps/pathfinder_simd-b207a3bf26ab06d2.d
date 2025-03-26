@@ -1,0 +1,9 @@
+/Users/holdenevers/creations/Mandelbrot_rust/target/debug/deps/libpathfinder_simd-b207a3bf26ab06d2.rmeta: /Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/lib.rs /Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/extras.rs /Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/scalar/mod.rs /Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/scalar/swizzle_f32x4.rs /Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/scalar/swizzle_i32x4.rs
+
+/Users/holdenevers/creations/Mandelbrot_rust/target/debug/deps/pathfinder_simd-b207a3bf26ab06d2.d: /Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/lib.rs /Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/extras.rs /Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/scalar/mod.rs /Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/scalar/swizzle_f32x4.rs /Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/scalar/swizzle_i32x4.rs
+
+/Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/lib.rs:
+/Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/extras.rs:
+/Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/scalar/mod.rs:
+/Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/scalar/swizzle_f32x4.rs:
+/Users/holdenevers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pathfinder_simd-0.5.4/src/scalar/swizzle_i32x4.rs:
